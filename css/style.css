@@ -140,5 +140,7 @@ footer{
   min-height: 75px;
   position: fixed;
   bottom: 0px;
+  left: 0px;
+  right: 0px;
 }
 
